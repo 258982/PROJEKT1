@@ -1,0 +1,16 @@
+﻿  Stack.cpp
+D:\Programming\Stack\Stack\Stack.h(37,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Programming\Stack\Stack\Stack.h(524,24): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\Stack\Stack\Stack.cpp(10,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+D:\Programming\Stack\Stack\ArrayStack.h(91,24): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\Stack\Stack\ArrayStack.h(87): message : while compiling class template member function 'void ArrayStack<int>::doubleMaxSize(void)'
+D:\Programming\Stack\Stack\ArrayStack.h(25): message : see reference to function template instantiation 'void ArrayStack<int>::doubleMaxSize(void)' being compiled
+D:\Programming\Stack\Stack\Stack.h(703): message : see reference to class template instantiation 'ArrayStack<int>' being compiled
+D:\Programming\Stack\Stack\Stack.h(643,25): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\Stack\Stack\Stack.h(592): message : see reference to function template instantiation 'double Stack::Stack::runPerformanceTest<int>(StackImplementation,std::ofstream *,int)' being compiled
+D:\Programming\Stack\Stack\StackBase.h(9): warning C4700: uninitialized local variable 'result' used
+D:\Programming\Stack\Stack\StackBase.h(10): warning C4700: uninitialized local variable 'result' used
+D:\Programming\Stack\Stack\StackBase.h(9): warning C4700: uninitialized local variable 'result' used
+D:\Programming\Stack\Stack\StackBase.h(10): warning C4700: uninitialized local variable 'result' used
+  Stack.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Stack.vcxproj -> D:\Programming\Stack\Debug\Stack.exe

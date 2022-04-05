@@ -1,0 +1,3 @@
+D:\Programming\Stack\Stack\Release\Stack.Stack.resources
+D:\Programming\Stack\Stack\Release\Stack.vcxproj.GenerateResource.cache
+D:\Programming\Stack\Stack\Release\Stack.vcxproj.AssemblyReference.cache

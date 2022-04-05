@@ -1,0 +1,25 @@
+Stack performance raport.
+
+
+
+ArrayStack - int
+Test for 100elements:		0.000074 sec
+Test for 1000elements:		0.000289 sec
+Test for 100000elements:	0.027357 sec
+
+ArrayStack - double
+Test for 100elements:		0.000031 sec
+Test for 1000elements:		0.000289 sec
+Test for 100000elements:	0.027933 sec
+
+LinkedListStack - int
+Test for 100elements:		0.000057 sec
+Test for 1000elements:		0.000536 sec
+Test for 100000elements:	0.058799 sec
+
+LinkedListStack - double
+Test for 100elements:		0.000063 sec
+Test for 1000elements:		0.000652 sec
+Test for 100000elements:	0.069302 sec
+
+Raport generated!
